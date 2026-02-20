@@ -1,4 +1,4 @@
-Mew — tiny local-first snapshot tool
+Mew: tiny local-first snapshot tool
 
 Usage
 
